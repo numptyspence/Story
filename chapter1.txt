@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 It was the best of times, it was the worst of times
 new line of bumff
+=======
+It was the spacestbest of times, it was the alienist of times
+>>>>>>> alien-plot
